@@ -2,6 +2,8 @@
 
 I am working as a fullstack developer 🚀 from Egypt and working in Saudi Arabia - Khobar
 
+#### 📪 you can reach me on omar.ceh007@gmail.com
+
 <!--
 **OmarAllam007/OmarAllam007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
